@@ -1,0 +1,11 @@
+server:
+  servlet:
+    context-path: /api
+spring:
+  application:
+    name: tech-talk-demo
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/party_builder
+    username: postgres
+    password: root
