@@ -4,6 +4,8 @@ Project used to present the basics of JDBI library to my team at [CWI Software](
 
 Domain classes highly inspired by Final Fantasy system where a user has a set of parties the parties have a set of members(characters).
 
+![](database/entity_model.png)
+
 ## Project structure:
 - *application*: The code itself
 - *database*: PostgreSQL scripts i used to create the database
